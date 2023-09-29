@@ -1,0 +1,142 @@
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.exe
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.deps.json
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.runtimeconfig.json
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.pdb
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.csproj.AssemblyReference.cache
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.AssemblyInfoInputs.cache
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.AssemblyInfo.cs
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.csproj.CopyComplete
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\refint\PetshopEntityFramework.dll
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.pdb
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.genruntimeconfig.cache
+C:\Users\Spinola\Desktop\Algoritmos\PetshopEntityFramework\PetshopEntityFramework\obj\Debug\net6.0\ref\PetshopEntityFramework.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.exe
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.deps.json
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.runtimeconfig.json
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\PetshopEntityFramework.pdb
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Azure.Core.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Azure.Identity.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Humanizer.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\Mono.TextTemplating.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.CodeDom.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.Drawing.Common.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.Memory.Data.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.Runtime.Caching.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.Security.Permissions.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.Text.Json.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\System.Windows.Extensions.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.csproj.AssemblyReference.cache
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.AssemblyInfoInputs.cache
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.AssemblyInfo.cs
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.csproj.CoreCompileInputs.cache
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.csproj.CopyComplete
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\refint\PetshopEntityFramework.dll
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.pdb
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\PetshopEntityFramework.genruntimeconfig.cache
+Z:\3° Semestre\PetshopEntityFramework-main\PetshopEntityFramework\obj\Debug\net6.0\ref\PetshopEntityFramework.dll
